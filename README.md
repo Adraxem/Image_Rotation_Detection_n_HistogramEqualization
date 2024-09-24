@@ -1,0 +1,2 @@
+# Image_Rotation_Detection_n_HistogramEqualization
+Image Rotation Detection through Histogram Equalization and Line Fitting
